@@ -8,7 +8,7 @@
 <li>Aritmethic operators</li>
 </ul>
 <p><strong>File uploaded to git is a javascript files that will contains 5 exercises requested</strong></p>
-ul>
+<ul>
 <li>Print odds 1-20</li>
 <li>Decreasing Multiples of 3</li>
 <li>Print the sequence</li>
